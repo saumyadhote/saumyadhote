@@ -1,34 +1,15 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbHd5Z2E0OGJpeHAzaWc1OW82ODh4eDc4d293YmQwYmNlMzA4Y21oMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/ZCNaf8FfCEXiH4Y2ZO/giphy.gif" width="240">
+  <img src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif" width="200">
 </div>
 
-Hey, I'm **Saumya Dhote*
+# Hi, I'm Saumya Dhote 🦦
 
+I am a CSE undergrad exploring design and development.
 
+# Connect With Me  
 
-Who I Am  
-A BTech CSE (Cloud) student exploring **web development**, **UI/UX**, and minimal, clean design.  
-Currently building strong fundamentals in **C, Python, Java, HTML/CSS**, and learning **JavaScript**.
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dhote.saumya9@gmail.com  )
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]( www.linkedin.com/in/saumya-dhote-304965306)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)]([your-link](https://www.instagram.com/saumsq?igsh=MnJ2NHM1NmR1bDJi))
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/saumyadhote)
 
-Connect  
-[LinkedIn](www.linkedin.com/in/saumya-dhote-304965306)  
-
-Tech Stack  
-
-**Languages:**  
-![C](https://img.shields.io/badge/C-000?logo=c&logoColor=white)
-![Python](https://img.shields.io/badge/Python-000?logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-000?logo=openjdk&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML-000?logo=html&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-000?logo=css&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-Learning-000?logo=javascript&logoColor=white)
-
-**Tools:**  
-![Git](https://img.shields.io/badge/Git-000?logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-000?logo=github&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-000?logo=figma&logoColor=white)
-![VSCode](https://img.shields.io/badge/VSCode-000?logo=visualstudiocode&logoColor=white)
-
-Stats  
-![Stats](https://github-readme-stats.vercel.app/api?username=saumyadhote&show_icons=true&theme=transparent)  
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=saumyadhote&layout=compact&theme=transparent)
