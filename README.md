@@ -5,7 +5,7 @@
 ---
 
 <p align="center">
-  <img src="https://camo.githubusercontent.com/5d12db9ced726f7d0f95f63bf17aaf6e141c39de2dd9fe3232d0aa13ea68858a/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f65622f35302f38372f65623530383735613638623034623034383066613932396166326337353437632e676966" width="900" alt="banner gif" />
+  <img src="https://camo.githubusercontent.com/5d12db9ced726f7d0f95f63bf17aaf6e141c39de2dd9fe3232d0aa13ea68858a/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f65622f35302f38372f65623530383735613638623034623034383066613932396166326337353437632e676966" width="700" alt="banner gif" />
 </p>
 
 ---
@@ -13,9 +13,7 @@
 ### about
 i enjoy working with ai, systems, and ideas that are simple yet meaningful.
 exploring design and technology through hands-on projects and iteration.
-currently working on buzzboard , an ai-driven academic notification system exploring llm orchestration and intelligent information routing.
-Mostly vibing with side projects and open source.
-
+My current focus is Buzzboard, where I’m experimenting with LLM orchestration to solve information density in academia.
 ---
 
 ### stack
