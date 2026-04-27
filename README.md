@@ -9,11 +9,11 @@
 </p>
 
 ---
+## about
 
-### about
-i enjoy working with ai, systems, and ideas that are simple yet meaningful.
-exploring design and technology through hands-on projects and iteration.
-My current focus is Buzzboard, where I’m experimenting with LLM orchestration to solve information density in academia.
+i enjoy working with ai, systems, and ideas that are simple yet meaningful.  
+i like exploring design and technology through hands-on projects and iteration.
+
 ---
 
 ### stack
@@ -36,9 +36,9 @@ My current focus is Buzzboard, where I’m experimenting with LLM orchestration 
 ---
 ### currently working on a few projects across ai and systems
 
-Buzzboard is an ai-driven academic notification engine that uses llm orchestration to intelligently structure, classify, and route information.
+Building Wavelength — an AI-powered tracker for movies & shows. Log, rate, tag the vibe, and jot notes. Uses FastAPI + MongoDB, with AI insights and personalized recs coming next.
 QuickCover explores ai-powered parametric income protection for gig workers through adaptive, data-driven coverage. 
-TraceURL focuses on building a scalable url shortener with real-time analytics and strong system design foundations.
+
 
 ---
 
