@@ -1,11 +1,11 @@
 # hey, i'm saumya 🦦
 
-> CSE Undergraduate · building things that (mostly) work · AI + Systems Enthusiast
+> CSE Undergraduate · trying creative projects
 
 ---
 
 <p align="center">
-  <img src="https://camo.githubusercontent.com/5d12db9ced726f7d0f95f63bf17aaf6e141c39de2dd9fe3232d0aa13ea68858a/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f65622f35302f38372f65623530383735613638623034623034383066613932396166326337353437632e676966" width="700" alt="banner gif" />
+  <img src="https://camo.githubusercontent.com/5d12db9ced726f7d0f95f63bf17aaf6e141c39de2dd9fe3232d0aa13ea68858a/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f65622f35302f38372f65623530383735613638623034623034383066613932396166326337353437632e676966" width="500" alt="banner gif" />
 </p>
 
 ---
@@ -34,10 +34,10 @@ i like exploring design and technology through hands-on projects and iteration.
 ![Git](https://img.shields.io/badge/Git-F1EFE8?style=flat-square&logo=git&logoColor=444441)
 
 ---
-### currently working on a few projects across ai and systems
+### currently working on a few projects 
 
 Building Wavelength — an AI-powered tracker for movies & shows. Log, rate, tag the vibe, and jot notes. Uses FastAPI + MongoDB, with AI insights and personalized recs coming next.
-QuickCover explores ai-powered parametric income protection for gig workers through adaptive, data-driven coverage. 
+
 
 
 ---
@@ -45,8 +45,16 @@ QuickCover explores ai-powered parametric income protection for gig workers thro
 ### github stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=saumyadhote&show_icons=true&theme=transparent&hide_border=true&title_color=185FA5&text_color=5F5E5A&icon_color=1D9E75" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saumyadhote&layout=compact&theme=transparent&hide_border=true&title_color=185FA5&text_color=5F5E5A" height="150" />
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=saumyadhote&show_icons=true&theme=transparent&hide_border=true&title_color=185FA5&text_color=5F5E5A&icon_color=1D9E75"
+    alt="GitHub Stats"
+    height="150"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=saumyadhote&layout=compact&theme=transparent&hide_border=true&title_color=185FA5&text_color=5F5E5A"
+    alt="Top Languages"
+    height="150"
+  />
 </p>
 
 ---
