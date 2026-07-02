@@ -38,25 +38,6 @@ i like exploring design and technology through hands-on projects and iteration.
 
 Building Wavelength — an AI-powered tracker for movies & shows. Log, rate, tag the vibe, and jot notes. Uses FastAPI + MongoDB, with AI insights and personalized recs coming next.
 
-
-
----
-
-### github stats
-
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=saumyadhote&show_icons=true&theme=transparent&hide_border=true&title_color=185FA5&text_color=5F5E5A&icon_color=1D9E75"
-    alt="GitHub Stats"
-    height="150"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=saumyadhote&layout=compact&theme=transparent&hide_border=true&title_color=185FA5&text_color=5F5E5A"
-    alt="Top Languages"
-    height="150"
-  />
-</p>
-
 ---
 
 ### find me
