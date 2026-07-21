@@ -18,7 +18,7 @@
 
 ### currently working on 
 
-Building Wavelength : an AI movie & show tracker (FastAPI + MongoDB). Log, rate, tag the vibe, take notes. AI insights & recs coming soon.
+ Wavelength : an AI movie & show tracker (FastAPI + MongoDB). Log, rate, tag the vibe, take notes. (AI insights & recs coming soon.)
 
 ---
 
