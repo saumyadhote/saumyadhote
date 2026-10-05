@@ -4,8 +4,6 @@
 
 <h2>hi, i'm saumya</h2>
 
-<p>CSE Undergrad | trying creative projects</p>
-
 <p>
 I like exploring ideas through design and code,<br>
 from apps and interfaces to experiments with AI.
