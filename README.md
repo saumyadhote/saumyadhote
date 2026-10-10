@@ -10,13 +10,12 @@
 
 <p>
 <b>currently </b><br>
-<code>iOS</code> · <code>AI/ML</code> · <code>Design Engineering</code>
+<code>iOS development</code> · <code>AI/ML</code> · <code>Design Engineering</code>
 </p>
 
-<p>
-<b>working on</b><br>
-iOS development · AI/ML projects · interface design 
-</p>
+<br>
+
+
 
 
 </td>
