@@ -4,7 +4,8 @@
 
 <h2>hi, i'm saumya :) </h2>
 
-<p>I’m a third-year CSE student at SRMIST, exploring ideas through design and code. I like taking rough concepts, figuring out what makes them interesting, and turning them into something real.
+<p>I’m a junior undergrad in Computer Science, exploring ideas through design and code. 
+I like taking rough concepts, figuring out what makes them interesting, and turning them into something real.
 
 </p>
 
