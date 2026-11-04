@@ -20,12 +20,6 @@ I like taking rough concepts, figuring out what makes them interesting, and turn
 
 
 </td>
-
-<td width="45%" align="center" valign="middle">
-
-<img src="https://github.com/saumyadhote/readme-gif/blob/main/cosmos_55697812.gif" width="400" alt="banner gif" />
-
-</td>
 </tr>
 </table>
 
